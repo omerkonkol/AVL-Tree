@@ -1,6 +1,6 @@
-#id1:213712698
-#name1:Omer Konkol
-#username1:omerkonkol
+
+#name:Omer Konkol
+
 
 
 
